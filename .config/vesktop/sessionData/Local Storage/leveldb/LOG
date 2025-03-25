@@ -1,6 +1,0 @@
-2025/03/25-17:05:59.993 2fe5 Reusing MANIFEST /home/farfallequalle/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2025/03/25-17:05:59.997 2fe5 Recovering log #4
-2025/03/25-17:05:59.997 2fe5 Reusing old log /home/farfallequalle/.config/vesktop/sessionData/Local Storage/leveldb/000004.log 
-2025/03/25-17:16:35.592 2fe6 Level-0 table #8: started
-2025/03/25-17:16:35.601 2fe6 Level-0 table #8: 46601 bytes OK
-2025/03/25-17:16:35.602 2fe6 Delete type=0 #4
