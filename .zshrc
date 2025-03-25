@@ -7,7 +7,9 @@ PS1='%m %1d$ '
 # End of lines configured by zsh-newuser-install
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/farfallequalle/.zshrc'
-alias s='yay -S '
+alias i='yay -S '
+alias s='yay -Ss '
 autoload -Uz compinit
 compinit
+export EDITOR=vim
 # End of lines added by compinstall
