@@ -9,6 +9,7 @@ PS1='%m %1d$ '
 zstyle :compinstall filename '/home/farfallequalle/.zshrc'
 alias i='yay -S '
 alias s='yay -Ss '
+alias vim='nvim'
 autoload -Uz compinit
 compinit
 export EDITOR=vim
