@@ -10,6 +10,7 @@ zstyle :compinstall filename '/home/farfallequalle/.zshrc'
 alias i='yay -S '
 alias s='yay -Ss '
 alias vim='nvim'
+alias ls='eza -a --icons --color=always --group-directories-first'
 autoload -Uz compinit
 compinit
 export EDITOR=vim

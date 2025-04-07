@@ -51,10 +51,10 @@
     "interval": 900
   },
   "battery": {
-        "format": "{icon}",
+        "format": "{capacity}% {icon}",
         "format-icons": [ "󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹" ],
-        "format-charging": "󰂄",
-        "format-warning": "󰂃",
+        "format-charging": "{capacity}% 󰂄",
+        "format-warning": "{capacity}% 󰂃",
 				"tooltip-format": "{capacity}% capacity"
   },
   "pulseaudio": {
